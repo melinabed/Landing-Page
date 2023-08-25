@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* HEADER */
+
+header {
+    background-color: rgb(122, 73, 0);
+    padding: 1em 13em;
+}
+
+/* NAVIGATION */
+
+#logo {
+    font-size: 24px;
+    font-weight: 900;
+    color: black;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 1.5em;
+    color: black;
+    text-decoration: none;
+}
+
+.secondary, a:link {
+    font-size: 18px;
+    color: #000000;
+    text-decoration: none;
+}
+
+/* WELCOME */
+
+.welcome {
+    padding: 7em 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+}
+
+.welcome .left {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.welcome .right {
+    flex-shrink: 0;
+    width: 50%;
+}
+
+.hero {
+    color: black;
+    font-weight: 900;
+    font-size: 48px;
+}
+
+button {
+    padding: 7px 1em;
+    width: 120px;
+    background-color: white; 
+    border-radius: 8px;
+}
+
+.welcome button {
+    border: none;
+}
+
+.one {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 215px;
+    border-radius: 8px;
+}
+
+/* CARDS */
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 13em;
+    margin-top: 3em;
+    background-color: rgb(245, 195, 57);
+}
+
+main h2 {
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.examples {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 3em 0 6em 0;
+}
+
+.card {
+    text-align: center;
+    max-width: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: .5em;
+}
+
+img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 215px;
+    border-radius: 8px;
+
+}
+
+/* QUOTES */
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #E5E7EB;
+    padding: 7em 13em;
+}
+
+.quote p {
+    align-self: flex-end;
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+.quote em {
+    font-size: 36px;
+    font-weight: 100;
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5em 13em;
+}
+
+.signup {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgb(92, 55, 0);
+    padding: 3em;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.footer button {
+    border: 2px solid #FFF;
+}
+
+strong {
+    font-size: 24px;
+    color: #FFF;
+}
+
+
+
+
