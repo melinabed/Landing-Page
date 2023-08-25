@@ -1,1 +1,11 @@
-# landing-page
+This repo contains all the files needed for the example landing page described in The Odin Project's "Foundations" curriculum. Also listed below are the URL's for images featured in the webpage, sourced from various websites.
+
+Usopp posing, smiling, and giving a thumbs up: https://e0.pxfuel.com/wallpapers/1013/1003/desktop-wallpaper-usopp-one-piece-anime-board.jpg
+
+Perona's arm going through Usopp's chest: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4cb20b0f-5b79-4e8a-a4ac-ceec6e1f1216/dayfla7-09118b8c-2c8a-4277-bdec-e225951cd526.jpg/v1/fill/w_1024,h_575,q_75,strp/usopp_vs_perona_screencap_redraw_by_anonymouswind_dayfla7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc1IiwicGF0aCI6IlwvZlwvNGNiMjBiMGYtNWI3OS00ZThhLWE0YWMtY2VlYzZlMWYxMjE2XC9kYXlmbGE3LTA5MTE4YjhjLTJjOGEtNDI3Ny1iZGVjLWUyMjU5NTFjZDUyNi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tQR43TG4RPCqIstIW73uB4BGq0JWSXz70A1Rf6b9SSI
+
+Usopp stares down Luffy with slingshot in hand: https://i.quotev.com/ehnractwaaaa.jpg 
+
+Usopp standing stoic: https://pm1.aminoapps.com/6291/7bdf4790b0507858846e0bd04eb3f32308b20273_hq.jpg
+
+God Usopp Bounty Poster: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e69ea1f-533f-4523-aabd-648ccd780405/da82dlm-1ef814dd-0af6-47f9-bc14-a23ea7b3e9b3.jpg/v1/fit/w_828,h_1172,q_70,strp/mugiwara_team_new_bounties___god_usopp_by_rgunerdek_da82dlm-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzUwOCIsInBhdGgiOiJcL2ZcLzFlNjllYTFmLTUzM2YtNDUyMy1hYWJkLTY0OGNjZDc4MDQwNVwvZGE4MmRsbS0xZWY4MTRkZC0wYWY2LTQ3ZjktYmMxNC1hMjNlYTdiM2U5YjMuanBnIiwid2lkdGgiOiI8PTI0ODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.sAY-Qnsl_kxxwRufCdfiBgzQ_7FYULPju4Nn7eiU584
